@@ -20,6 +20,7 @@
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/omar-migdady-78829913a" target="_blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haachal-pardeshi-258257225" height="30" width="40"/></a>
+<a href="https://www.instagram.com/3mooorg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@code_station_" height="30" width="40" /></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
