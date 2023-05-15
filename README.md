@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://images.freeimages.com/fic/images/icons/2052/social_network/32/linkedin.png?ref=findicons"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
 </p> 
 
 - 🏢 I'm a Software Engineer trainer at Atypon
